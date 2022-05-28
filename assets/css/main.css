@@ -344,7 +344,7 @@ header .brands img {
     }
 
     .menu-btn {
-        background: url(/assets/image/menu-bar.png)no-repeat;
+        background: url(assets/image/menu-bar.png)no-repeat;
         background-size: 30px;
         background-position: center;
         width: 40px;
@@ -355,7 +355,7 @@ header .brands img {
 
     .menu-btn.active {
         z-index: 999;
-        background: url(/assets/image/close.png)no-repeat;
+        background: url(assets/image/close.png)no-repeat;
         background-size: 25px;
         background-position: center;
         transition: 0.3s ease;
