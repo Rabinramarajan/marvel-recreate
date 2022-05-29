@@ -48,3 +48,7 @@ const menuBtn = document.querySelector(".menu-btn");
       });
     });
 
+        setTimeout(function(){
+      $('#preloader').fadeToggle();
+    },2000);
+
