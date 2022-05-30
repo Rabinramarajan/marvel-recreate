@@ -24,7 +24,7 @@
 
 .load {
     position: fixed;
-    z-index: 999;
+    z-index: 1999;
     background: #000 url(assets/image/loader.gif) no-repeat center center;
     background-size: cover;
     width: 100%;
@@ -40,7 +40,7 @@ body {
 }
 
 header {
-    z-index: 900;
+    z-index: 1100;
     position: fixed;
     top: 0;
     left: 0;
