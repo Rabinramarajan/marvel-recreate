@@ -12,7 +12,8 @@ const menuBtn = document.querySelector(".menu-btn");
     var nav = document.getElementById('nav');
     window.onscroll = function(){
       if (window.pageYOffset >650){
-        nav.style.background = "rgba(1, 1, 1, 0.5)";
+        nav.style.background = "#b5b5b569";
+        nav.style.boxShadow = "0px 3px 3px rgba(0, 0, 0, 0.25)";
       }
       else{
         nav.style.background = "transparent";
